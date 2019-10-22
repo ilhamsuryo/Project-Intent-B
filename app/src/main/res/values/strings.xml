@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NestedScrollView</string>
+    <string-array name="spinner_negara">
+        <item>Indonesia</item>
+        <item>United States</item>
+        <item>China</item>
+        <item>Singapore</item>
+        <item>England</item>
+        <item>Germany</item>
+    </string-array>
+</resources>
